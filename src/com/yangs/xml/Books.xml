@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1">
+        <name>think in java</name>
+        <author>tom</author>
+        <date>2018</date>
+    </book>
+    <book id ="2" att="hhh">
+        <name>html design</name>
+        <author>jack</author>
+        <price>100</price>
+    </book>
+</books>
+
